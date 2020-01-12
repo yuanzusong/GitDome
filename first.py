@@ -11,3 +11,5 @@ def operation() :
 
 
 operation()
+
+operation()
