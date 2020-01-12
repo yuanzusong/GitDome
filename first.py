@@ -11,3 +11,6 @@ def operation() :
 
 
 operation()
+
+
+#天下英雄谁敌手，孙子当如孙仲谋
